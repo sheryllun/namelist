@@ -1,0 +1,36 @@
+.name-item {
+  border: 1px solid #e3e3e3;
+  border-radius: 5px;
+}
+.check-col {
+  padding: 0;
+}
+
+.well {
+  text-align: center;
+}
+
+.name-row {
+  padding: 5px;
+  background: #c1c1c1;
+}
+
+.email-row {
+  padding: 4px 5px;
+}
+
+.not-visible {
+  visibility: hidden;
+}
+
+.results {
+  padding: 10px 0;
+}
+
+button.btn-primary {
+  color: black;
+  border-radius: 0;
+  background: #76CDD3;
+  border-color: #76CDD3;
+  width: 100px;
+}
