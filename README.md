@@ -1,6 +1,9 @@
 Name List
 =======================
 
+Run `npm start` to launch project to `localhost:3000`.
+-------------------------
+
 - Fetch a list of users using the API
 - Render the list along with a checkbox for each row and a Confirm button
 - Name and email are full width.
